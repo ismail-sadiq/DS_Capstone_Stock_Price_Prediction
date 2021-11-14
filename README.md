@@ -42,6 +42,11 @@ Adj Close: The adjusted closing price amends a stock's closing price to reflect 
 
 Volume: Stock trading volume would refer to the number of shares of a security traded between its daily open and close.
 
+# Apple Stock Price Analysis
+
+<img width="918" alt="Apple Stock Price Analysis" src="https://user-images.githubusercontent.com/89701837/141690794-e3248225-b3a0-4db5-ab06-ddaffa43ec16.png">
+
+
 # Analytic Approach
 
 ### Linear Regression
@@ -55,6 +60,12 @@ It is an open-source python library basically used to automate Time Series Fore
 ### Facebook Prophet Model
 
 Prophet is an open-source software released by Facebook’s Core Data Science team. Prophet is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
+
+# APPL Future Price
+
+![APPL Future Price](https://user-images.githubusercontent.com/89701837/141690741-73a5b22d-375f-49e8-9d26-bc0bf17d2742.png)
+
+
 
 # Conclusion 
 
