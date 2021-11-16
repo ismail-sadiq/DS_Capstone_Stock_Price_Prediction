@@ -67,10 +67,10 @@ Prophet is an open-source software released by Facebook’s Core Data Science te
 
 # Future work 
 In the future, I would expand more to this project by using more advanced tools and algorithms such as :
-Long Short Term Memory (LSTM)
-k-Nearest Neighbours
-ARIMA Model
-Seasonality Time Series Analysis
+- Long Short Term Memory (LSTM)
+- k-Nearest Neighbours
+- ARIMA Model
+- Seasonality Time Series Analysis
 
 # Conclusion 
 
