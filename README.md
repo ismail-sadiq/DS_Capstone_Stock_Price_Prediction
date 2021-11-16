@@ -77,3 +77,10 @@ In the future, I would expand more to this project by using more advanced tools 
 
 
 By using 3 machine learning methods on Apple stock, our analysis shows that Apple stock is still a valuable investment for the future. However, Value investors need to conduct an external-internal business analysis to develop the full picture of the company's future value before the investment decision.
+
+
+# Programming Laguage
+- Python
+
+# Date updated
+November 02, 2021
