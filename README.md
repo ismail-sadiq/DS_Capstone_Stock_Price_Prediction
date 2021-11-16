@@ -65,7 +65,12 @@ Prophet is an open-source software released by Facebook’s Core Data Science te
 
 ![APPL Future Price](https://user-images.githubusercontent.com/89701837/141690741-73a5b22d-375f-49e8-9d26-bc0bf17d2742.png)
 
-
+# Future work 
+In the future, I would expand more to this project by using more advanced tools and algorithms such as :
+Long Short Term Memory (LSTM)
+k-Nearest Neighbours
+ARIMA Model
+Seasonality Time Series Analysis
 
 # Conclusion 
 
